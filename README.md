@@ -2,8 +2,9 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=JakeRoeleven&color=brightgreen" alt="watching_count" /
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=JakeRoeleven&color=brightgreen" alt="watching_count" />
+</p>
 
 I am a undergraduate software engineer currently studying at the University of Technology, Sydney, Australia.
 I am  working as a product developer at [SkyCiv Cloud Engineering](https://skyciv.com/)  
