@@ -6,6 +6,7 @@ I am a undergraduate software engineer from Sydney, Australia
 
 ![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakeRoeleven&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeRoeleven&layout=compact)](https://github.com/JakeRoeleven/github-readme-stats)
 
 
 <!--
