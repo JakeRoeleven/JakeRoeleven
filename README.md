@@ -1,8 +1,3 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=JakeRoeleven&color=brightgreen" alt="watching_count" />
-</p>
-
-
 ## Hi 👋, I'm Jake
 
 I am a undergraduate software engineer currently studying at the University of Technology, Sydney, Australia. I am  working as a product developer at [SkyCiv Cloud Engineering](https://skyciv.com/). I am a Fullstack Developer skilled in Web Development with langauges and frameworks such as Javascript, Node.js, React, PHP, Laravel and Python. I am always looking to learn new skills and build new projects.
@@ -11,7 +6,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/jake-roeleven-70a8611
 
 ## 🛠 I Build With
 
-### Frontend Frameworks/Languages
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-blue?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS#](https://img.shields.io/badge/CSS3-blue?&style=for-the-badge&logo=css3&logoColor=white)
@@ -43,8 +38,12 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/jake-roeleven-70a8611
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-blue?&style=for-the-badge&logo=puppeteer&logoColor=white&Color=c95410)
 ![Webpack](https://img.shields.io/badge/Webpack-blue?&style=for-the-badge&logo=webpack&logoColor=white&Color=c95410)
 
+## Course I Have Completed
 
-
+- React: Creating and Hosting a Full-Stack Site [Link](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site/react-for-full-stack-solutions)
+- Learning Node.js [Link](https://www.linkedin.com/learning/learning-node-js-2/get-started-with-node-js)
+- Advanced Express [Link](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express)
+- Ethical Hacking: Hacking Web Servers and Web Applications [Link](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe)
 
 ## My Stats
 
@@ -55,3 +54,8 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/jake-roeleven-70a8611
 Credits: [Jake Roeleven](https://github.com/JakeRoeleven)
 
 Last Edited on: 8/11/2021
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=JakeRoeleven&color=brightgreen" alt="watching_count" />
+</p>
+
