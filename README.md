@@ -40,10 +40,10 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/jake-roeleven-70a8611
 
 ## Course I Have Completed
 
-- React: Creating and Hosting a Full-Stack Site [Link](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site/react-for-full-stack-solutions)
-- Learning Node.js [Link](https://www.linkedin.com/learning/learning-node-js-2/get-started-with-node-js)
-- Advanced Express [Link](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express)
-- Ethical Hacking: Hacking Web Servers and Web Applications [Link](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe)
+- React: Creating and Hosting a Full-Stack Site | [Course Link](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site/react-for-full-stack-solutions)
+- Learning Node.js | [Course Link](https://www.linkedin.com/learning/learning-node-js-2/get-started-with-node-js)
+- Advanced Express | [Course Link](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express)
+- Ethical Hacking: Hacking Web Servers and Web Applications | [Course Link](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe)
 
 ## My Stats
 
