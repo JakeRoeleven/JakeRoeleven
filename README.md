@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi 👋, I'm Jake
+
+---
+
+I am a undergraduate software engineer from Sydney, Australia
+
+![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakeRoelevena&show_icons=true&theme=radical)
+
+
 
 <!--
 **JakeRoeleven/JakeRoeleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
