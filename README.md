@@ -9,15 +9,47 @@ I am a undergraduate software engineer currently studying at the University of T
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/jake-roeleven-70a861183/).
 
----
+## 🛠 I Build With
 
-### 🛠 My Tech Stack
+### Frontend Frameworks/Languages
 
-![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=4FA1EF&logo=JavaScript&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-blue?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS#](https://img.shields.io/badge/CSS3-blue?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript#](https://img.shields.io/badge/Javascript-blue?&style=for-the-badge&logo=javascript&logoColor=white)
+![React#](https://img.shields.io/badge/React-blue?&style=for-the-badge&logo=react&logoColor=white)
+![jQuery#](https://img.shields.io/badge/jQuery-blue?&style=for-the-badge&logo=jQuery&logoColor=white)
+![Material UI#](https://img.shields.io/badge/Material_UI-blue?&style=for-the-badge&logo=materialui&logoColor=white)
 
-![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakeRoeleven&show_icons=true&theme=radical)
+### Backend
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeRoeleven&layout=compact)](https://github.com/JakeRoeleven/github-readme-stats)
+![NodeJS](https://img.shields.io/badge/Node_JS-blue?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express_JS-blue?&style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?&style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-blue?&style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-blue?&style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue?&style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-blue?&style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Other
+
+![Git](https://img.shields.io/badge/Git-blue?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
+![Bash](https://img.shields.io/badge/Bash-blue?&style=for-the-badge&logo=gnubash&logoColor=white&Color=c95410)
+![Firebase](https://img.shields.io/badge/Firebase-blue?&style=for-the-badge&logo=firebase&logoColor=white&Color=c95410)
+![Android](https://img.shields.io/badge/Android-blue?&style=for-the-badge&logo=android&logoColor=white&Color=c95410)
+![Mocha](https://img.shields.io/badge/Mocha-blue?&style=for-the-badge&logo=mocha&logoColor=white&Color=c95410)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-blue?&style=for-the-badge&logo=puppeteer&logoColor=white&Color=c95410)
+![Webpack](https://img.shields.io/badge/Webpack-blue?&style=for-the-badge&logo=webpack&logoColor=white&Color=c95410)
+
+
+
+
+## My Stats
+
+![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeRoeleven&count_private=true&show_icons=true&hide=contribs,issues)
+
 
 -----
 Credits: [Jake Roeleven](https://github.com/JakeRoeleven)
