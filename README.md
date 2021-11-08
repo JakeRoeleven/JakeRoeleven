@@ -3,7 +3,7 @@
 ---
 
 I am a undergraduate software engineer currently studying at the University of Technology, Sydney, Australia.
-I am  working as a product developer at (SkyCiv Cloud Engineering)[https://skyciv.com/]  
+I am  working as a product developer at [SkyCiv Cloud Engineering](https://skyciv.com/)  
 
 ![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakeRoeleven&show_icons=true&theme=radical)
 
