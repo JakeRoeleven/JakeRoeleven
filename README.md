@@ -44,6 +44,11 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/jake-roeleven-70a8611
 - Learning Node.js | [Course Link](https://www.linkedin.com/learning/learning-node-js-2/get-started-with-node-js)
 - Advanced Express | [Course Link](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express)
 - Ethical Hacking: Hacking Web Servers and Web Applications | [Course Link](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe)
+- Software Architecture Foundations | [Course Link](https://www.linkedin.com/learning/software-architecture-foundations)
+
+## Projects
+
+- [Calculators](https://www.free-calcs.com/)
 
 ## My Stats
 
