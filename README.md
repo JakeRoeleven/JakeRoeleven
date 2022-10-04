@@ -48,6 +48,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/jake-roeleven-70a8611
 - GDPR Compliance: Essential Training | [Course Link](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961)
 - Master Angular Fundamentals by Building a Real App | [Certificate Link](https://www.udemy.com/certificate/UC-8f13e674-3e25-4fab-ae40-2c7790278374/)
 - MATLAB Fundamentals | [Certificate Link](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=46c8e4f1-1628-4bbb-9d2d-cb95c3d48c95&)
+- Cyber Security: Absolute Beginner to Expert (2022) | [Certificate Link](https://ude.my/UC-06fe07d8-9fcb-43cb-bd29-1b46a415c4cd)
 
 ## Projects
 
