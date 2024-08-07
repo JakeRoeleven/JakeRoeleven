@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Jake
 
-I am a undergraduate software engineer currently studying at the University of Technology, Sydney, Australia. I am  working as a product developer at [SkyCiv Cloud Engineering](https://skyciv.com/). I am a Fullstack Developer skilled in Web Development with langauges and frameworks such as Javascript, Node.js, React, PHP, Laravel and Python. I am always looking to learn new skills and build new projects.
+I am a software engineer from Sydney, Australia. I am  working as a product developer at [SkyCiv Cloud Engineering](https://skyciv.com/). I am a Fullstack Developer skilled in Web Development with langauges and frameworks such as Javascript, Node.js, React, PHP, Laravel and Python. I am always looking to learn new skills and build new projects.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/jake-roeleven-70a861183/).
 
